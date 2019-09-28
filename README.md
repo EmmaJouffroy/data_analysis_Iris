@@ -16,6 +16,9 @@ pipenv install
 ```
 Le pipfile permettra l'installation de toutes les dépendances nécessaires à l'utilisation du projet. Cette installation est effectuée grâce au fichier pipfile (et pipfile.lock). 
 <br>
+
+# Usage
+
 Enfin, pour lancer le notebook: 
 ```sh
 pip run jupyter notebook
