@@ -19,7 +19,7 @@ Le pipfile permettra l'installation de toutes les dépendances nécessaires à l
 
 # Usage
 
-Enfin, pour lancer le notebook: 
+Pour lancer le notebook: 
 ```sh
-pip run jupyter notebook
+pipenv run jupyter notebook
 ```
